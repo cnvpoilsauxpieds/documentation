@@ -39,4 +39,5 @@ Résultat : on a mis en place un petit groupe de pratique FB pour nourrir dès �
 
 Wahou ! C'était sûr. Ce projet allait se construire à partir des besoins. Une nouvelle méthodologie allait naître, et vu la qualité d'échange de ce premier temps de travail, j'étais persuadée de sa réussite. 
 
+Ecrit, relu et pas corrigé par Julia !
 

@@ -44,8 +44,8 @@ Tadam !!!
 ![vive les portes vitrées !](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-2/tableau%20de%20post-it.jpg)
 
 Plus que l'éaboration de stratégies, ce temps d'échange nous a aussi permis d'éclairer un bon nombre de points : 
-- Qu'est-ce que la cellule anti-crise ? Quand est-ce qu'on l'utilise ? A quoi ça nous engage ? 
-- Quelle fonction pour le groupe facebook ? A quoi il sert ? Comment faire en sorte que ce soit utile et pertinent ?
+- Qu'est-ce que la cellule anti-crise ? Quand est-ce qu'on l'utilise ? A quoi ça nous engage ? (Pour tout savoir c'est [par ici](https://github.com/cnvpoilsauxpieds/documentation/blob/master/comment--a-marche/la-cellule-anti-crise.md)).
+- Quelle fonction pour le groupe facebook ? A quoi il sert ? Comment faire en sorte que ce soit utile et pertinent ? (Pour le savoir c'est [par là](https://github.com/cnvpoilsauxpieds/documentation/blob/master/comment--a-marche/le-groupe-facebook.md)
 - Comment on fait avec nos mômes ? 
 - Les temps d'écoute empathique, ça veut dire quoi ? 
 

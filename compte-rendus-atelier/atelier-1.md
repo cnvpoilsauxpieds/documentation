@@ -4,7 +4,7 @@ description: atelier de co-développement à l'éco-domaine de Vailhauquès
 ---
 
 # Contexte  
-On s'appelle, Sophie, Léa, Auréie et Julia. Bien qu'on viennent chacune d'un milieu différent, on s'est retrouvées autour d'une même envie "apprendre la Communication Non Violente" pour contribuer à notre bien-être et celui des autres.  
+On s'appelle, Sophie, Léa, Auréie et Julia. Bien qu'on vienne chacune d'un milieu différent, on s'est retrouvées autour d'une même envie "apprendre la Communication Non Violente" pour contribuer à notre bien-être et celui des autres.  
 On s'est rencontré dans le cadre de la [formation d'introduction à la CNV d'Isabelle Desplat](https://www.isabelledesplatsformation.com/). 7 jours de formation riches, et intenses et oh combien transformateurs !  
 
 ![Tadam ! On est contents :-)](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/185042%20CNV%20(2).jpg)

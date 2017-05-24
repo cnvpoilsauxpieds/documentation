@@ -7,6 +7,8 @@ description: atelier de co-développement à l'éco-domaine de Vailhauquès
 On s'appelle, Sophie, Léa, Auréie et Julia. Bien qu'on viennent chacune d'un milieu différent, on s'est retrouvées autour d'une même envie "apprendre la Communication Non Violente" pour contribuer à notre bien-être et celui des autres.  
 On s'est rencontré dans le cadre de la [formation d'introduction à la CNV d'Isabelle Desplat](https://www.isabelledesplatsformation.com/). 7 jours de formation riches, et intenses et oh combien transformateurs !  
 
+[Tadam ! On est contents :-)](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/185042%20CNV%20(2).jpg)
+
 # La création du groupe
 Le dernier jour de la formation était consacré à l'utilisation de la CNV dans les groupes collaboratifs. Le dernier exercice était celui du co-développement. Une personne venait proposer une problématique, une idée ou un projet. Les autres pouvaient la rejoindre pour l'aider dans le développement de son idée ou la résolution de son problème. La méthode était très proche de celle de [l'accélérateur de projet](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet).
 

@@ -41,7 +41,7 @@ Tadam !!!
 - sécurité (évoluer dans un groupe bienveillant et connu) : on décide de continuer à évoluer à 4 jusqu'à ce qu'on sente le groupe ancré, faire un atelier pour définir les valeurs du groupe.
 - fun : utiliser des post-it et des méthode d'animation dynamiques, boire l'apéro et grignoter, changer de lieu de rencontre régulièrement, faire des jeux
 
-[vive les portes vitrées !](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-2/tableau%20de%20post-it.jpg)
+![vive les portes vitrées !](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-2/tableau%20de%20post-it.jpg)
 
 Plus que l'éaboration de stratégies, ce temps d'échange nous a aussi permis d'éclairer un bon nombre de points : 
 - Qu'est-ce que la cellule anti-crise ? Quand est-ce qu'on l'utilise ? A quoi ça nous engage ? 

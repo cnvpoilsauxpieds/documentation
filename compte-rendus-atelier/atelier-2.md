@@ -17,7 +17,8 @@ est de se recentrer tout en se connectant avec le reste du groupe. Bilan : on es
 Je reprends l'ordre du jour : "*élaborer de bonnes stratégies pour répondre à nos besoins et s'appuyer sur ça pour créer une première proposition de projet du groupe*". 
 
 ## 20h34
-Je sors mes post-it. Pour moi, le post-it est l'outil ultime. C'est LA BASE car il est à la fois **impliquant** (tu écris, tu te lèves, tu le colle, le le déplace...), **collaboratif** (tout le monde peut s'exprimer équitablement), **clarifiant** (ça oblige à être clair et conçit et ça donne une vision d'ensemble) et **fun** (toute ces couleurs au mur ç ame fait toujours quelque chose).
+Je sors les post-it. 
+Pour moi, le post-it est l'outil ultime. C'est LA BASE car il est à la fois **impliquant** (tu écris, tu te lèves, tu le colle, le le déplace...), **collaboratif** (tout le monde peut s'exprimer équitablement), **clarifiant** (ça oblige à être clair et conçit et ça donne une vision d'ensemble) et **fun** (toute ces couleurs au mur ç ame fait toujours quelque chose).
 
 J'explique rapidement comment on peut optimiser leur utilisation : 
 1) ne pas décoller un post-it du tas par le haut sinon ça rebique. Il est plutôt conseillé de le décoller en tirant vers le côté.
@@ -40,6 +41,8 @@ Tadam !!!
 - sécurité (évoluer dans un groupe bienveillant et connu) : on décide de continuer à évoluer à 4 jusqu'à ce qu'on sente le groupe ancré, faire un atelier pour définir les valeurs du groupe.
 - fun : utiliser des post-it et des méthode d'animation dynamiques, boire l'apéro et grignoter, changer de lieu de rencontre régulièrement, faire des jeux
 
+[vive les portes vitrées !](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-2/tableau%20de%20post-it.jpg)
+
 Plus que l'éaboration de stratégies, ce temps d'échange nous a aussi permis d'éclairer un bon nombre de points : 
 - Qu'est-ce que la cellule anti-crise ? Quand est-ce qu'on l'utilise ? A quoi ça nous engage ? 
 - Quelle fonction pour le groupe facebook ? A quoi il sert ? Comment faire en sorte que ce soit utile et pertinent ?
@@ -47,7 +50,11 @@ Plus que l'éaboration de stratégies, ce temps d'échange nous a aussi permis d
 - Les temps d'écoute empathique, ça veut dire quoi ? 
 
 ## 22h15
-On clôture l'atelier par un tour de table. Chacune partage son ressenti. Aurélie se sent rassurée de pouvoir s'exprimer librement. Elle est aussi hyper enthousiaste à l'idée de travailler en collaboration avec des outils sympas. Léa se sent en joie. Elle est aussi rassurée de constater que malgré qu'on soit dans le "Faire" une grande place est laissée à l"Etre". Sophie est vraiement contente de voir qu'on avance et qu'on produit quelque chose de concret. Moi je suis épatée de voir avec quelle facilité s'est déroule tout ce travail. Finalement on a réussi l'exercice du "en même temps" avec 10 besoins et ça à 4. Sacré challenge auquel je suis fière d'avoir participé !
+On clôture l'atelier par un tour de table. Chacune partage son ressenti : 
+- Aurélie se sent rassurée de pouvoir s'exprimer librement. Elle est aussi hyper enthousiaste à l'idée de travailler en collaboration avec des outils sympas. 
+- Léa se sent joyeuse. Elle est aussi rassurée de constater que malgré qu'on soit dans le "Faire" une grande place est laissée à l"Etre". 
+- Sophie est vraiment contente de voir qu'on avance et qu'on produit quelque chose de concret. 
+- Moi je suis épatée de voir avec quelle facilité s'est déroule tout ce travail. Finalement on a réussi l'exercice du "*en même temps*" à 4 et avec 10 besoins. Sacré challenge !
 
 ## 22h30
 Avant qu'on se quitte je propose de faire de ce groupe une expérience collaborative à part entière. Je m'engage à trouver un outil pour stocjer tout ce qu'on produit et des méthodes pour créer ensemble. Les meufs sont OK. Trop chouette ! 

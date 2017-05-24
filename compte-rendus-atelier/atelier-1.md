@@ -12,7 +12,7 @@ On s'est rencontré dans le cadre de la [formation d'introduction à la CNV d'Is
 # La création du groupe
 Le dernier jour de la formation était consacré à l'utilisation de la CNV dans les groupes collaboratifs. Le dernier exercice était celui du co-développement. Une personne venait proposer une problématique, une idée ou un projet. Les autres pouvaient la rejoindre pour l'aider dans le développement de son idée ou la résolution de son problème. La méthode était très proche de celle de [l'accélérateur de projet](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet).
 
-Je me suis pointée avec mon sujet : "Comment s'assurer des suites de la formation pour continuer à pratiquer". La déouverte de la CNV a été tellement ouf pour moi que je me voyais mal m'arrêter là ! J'avais vraiment à coeur de continuer à apprendre, à pratiquer et à évoluer.La bonne nouvelle c'est que j'étais pas la seule. J'ai tout de suite été rejoinds par Léa, Aurélie et Sophie qui aspiraient à la même chose.
+Je me suis pointée avec mon sujet : "*Comment s'assurer des suites de la formation pour continuer à pratiquer*". La déouverte de la CNV a été tellement ouf pour moi que je me voyais mal m'arrêter là ! J'avais vraiment à coeur de continuer à apprendre, à pratiquer et à évoluer.La bonne nouvelle c'est que j'étais pas la seule. J'ai tout de suite été rejoinds par Léa, Aurélie et Sophie qui aspiraient à la même chose.
 
 # Le co-développement
 Ce premier temps de travail a permis de nous aligner. Chacune à pu exprimer ses besoins : 
@@ -27,7 +27,7 @@ Ce premier temps de travail a permis de nous aligner. Chacune à pu exprimer ses
 - sécurité : évoluer dans un groupe bienveillant et connu
 - fun : que ce soit marrant et enthousiasmant  
 
-Le soucis principal qu'on voyait était de savoir comment nourrir à la fois notre besoin d'évolution, de concrétisation en même temps que celui d'ouverture et de collaboration. On avait déjà tenté le coup. Impliquer tout le monde dans des rencontres régulières étaient trop compliqué. Ca ne fonctionnait pas : le projet se délitait, on ne se rencontrait pas et nos boîtes mails se remplissaient.  
+Le soucis principal qu'on voyait était de savoir comment nourrir à la fois notre **besoin d'évolution, de concrétisation en même temps que celui d'ouverture et de collaboration**. On avait déjà tenté le coup. Impliquer tout le monde dans des rencontres régulières étaient trop compliqué. Ca ne fonctionnait pas : le projet se délitait, on ne se rencontrait pas et nos boîtes mails se remplissaient.  
 
 Pour satisfaire ces deux aspect on a décidé de travailler en 2 temps :  
 1) S'assurer de la concrétisation en commencant à 4 pour instaurer les premières bases du fonctionnement du groupe en testant des trucs.

@@ -4,7 +4,7 @@ description: concrétiser le projet en élaborant les bonnes stratégies pour r�
 ---
 
 # Compte-rendu de l'atelier#2 
-Après quelques difficultées pour s'organiser (faute d'emplois du temps charette et de vie de famille), on a finalement réussi à tourver une date. On est le 23 mai et on a RDV chez Léa.
+*Après quelques difficultées pour s'organiser (faute d'emplois du temps charette et de vie de famille), on a finalement réussi à tourver une date. On est le 23 mai et on a RDV chez Léa.*
 
 ## 19h30
 Je m'engage au bout d'une impasse qui donne sur un champs de blé. A droite une petite maison aux volets bleus qui sent bon la doueur ! Je suis accueillie par un grand sourire et une petite fille. Hum ! Je sens qu'on va être bien ! On s'installe autour d'un verre et d'une tranche de pâté de "Mamie Coco". En attendant le reste de la troupe, Amane, 4 ans, me montre ses nouvelles chaussures noires à paillettes. Elle est trop fière ! Les mômes ça donne la pêche !

@@ -12,6 +12,8 @@ On s'est rencontré dans le cadre de la [formation d'introduction à la CNV d'Is
 # La création du groupe
 Le dernier jour de la formation était consacré à l'utilisation de la CNV dans les groupes collaboratifs. Le dernier exercice était celui du co-développement. Une personne venait proposer une problématique, une idée ou un projet. Les autres pouvaient la rejoindre pour l'aider dans le développement de son idée ou la résolution de son problème. La méthode était très proche de celle de [l'accélérateur de projet](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet).
 
+![Méthodo du co-développement](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/co-developpement.jpg)
+
 Je me suis pointée avec mon sujet : "*Comment s'assurer des suites de la formation pour continuer à pratiquer*". La déouverte de la CNV a été tellement ouf pour moi que je me voyais mal m'arrêter là ! J'avais vraiment à coeur de continuer à apprendre, à pratiquer et à évoluer.La bonne nouvelle c'est que j'étais pas la seule. J'ai tout de suite été rejoinds par Léa, Aurélie et Sophie qui aspiraient à la même chose.
 
 # Le co-développement

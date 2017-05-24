@@ -3,12 +3,11 @@ title: Compte-rendu de l'atelier#2
 description: concrétiser le projet en élaborant les bonnes stratégies pour répondre à nos besoins
 ---
 
+# Compte-rendu de l'atelier#2 
+Après quelques difficultées pour s'organiser (faute d'emplois du temps charette et de vie de famille), on a finalement réussi à tourver une date. On est le 23 mai et on a RDV chez Léa.
 
 ## 19h30
-J'arrive à St Félix de Lodez, accompagnée de mon chien Corto. On s'engage au bout d'une impasse qui donne sur un champs de blé.
-A droite une petite maison au volet bleu qui sent bon la doueur ! Je suis accueillie par un grand sourire et une petite fille. Hum on va être bien.
-On s'installe autour d'un verre et d'une tranche de pâté de Mamie Coco. En attendant le reste de la troupe, Amane, 4 ans, me montre ses nouvelles chaussures noires à paillettes. Elle est trop fière ! 
-Les mômes ça donne la pêche !
+Je m'engage au bout d'une impasse qui donne sur un champs de blé. A droite une petite maison aux volets bleus qui sent bon la doueur ! Je suis accueillie par un grand sourire et une petite fille. Hum ! Je sens qu'on va être bien ! On s'installe autour d'un verre et d'une tranche de pâté de "Mamie Coco". En attendant le reste de la troupe, Amane, 4 ans, me montre ses nouvelles chaussures noires à paillettes. Elle est trop fière ! Les mômes ça donne la pêche !
 
 ## 20h15 
 On est au complet. On commence par un tour de table "chacune peut partager comment elle se sent avant de commencer ?". L'intention de ce petit exercice
@@ -40,6 +39,12 @@ Tadam !!!
 - inclusion, ouverture (à d'autres personnes) : proposer une rencontre avec tous, définir un cadre au groupe FB et l'ouvrir à tous.
 - sécurité (évoluer dans un groupe bienveillant et connu) : on décide de continuer à évoluer à 4 jusqu'à ce qu'on sente le groupe ancré, faire un atelier pour définir les valeurs du groupe.
 - fun : utiliser des post-it et des méthode d'animation dynamiques, boire l'apéro et grignoter, changer de lieu de rencontre régulièrement, faire des jeux
+
+Plus que l'éaboration de stratégies, ce temps d'échange nous a aussi permis d'éclairer un bon nombre de points : 
+- Qu'est-ce que la cellule anti-crise ? Quand est-ce qu'on l'utilise ? A quoi ça nous engage ? 
+- Quelle fonction pour le groupe facebook ? A quoi il sert ? Comment faire en sorte que ce soit utile et pertinent ?
+- Comment on fait avec nos mômes ? 
+- Les temps d'écoute empathique, ça veut dire quoi ? 
 
 ## 22h15
 On clôture l'atelier par un tour de table. Chacune partage son ressenti. Aurélie se sent rassurée de pouvoir s'exprimer librement. Elle est aussi hyper enthousiaste à l'idée de travailler en collaboration avec des outils sympas. Léa se sent en joie. Elle est aussi rassurée de constater que malgré qu'on soit dans le "Faire" une grande place est laissée à l"Etre". Sophie est vraiement contente de voir qu'on avance et qu'on produit quelque chose de concret. Moi je suis épatée de voir avec quelle facilité s'est déroule tout ce travail. Finalement on a réussi l'exercice du "en même temps" avec 10 besoins et ça à 4. Sacré challenge auquel je suis fière d'avoir participé !

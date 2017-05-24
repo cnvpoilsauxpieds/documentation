@@ -1,6 +1,8 @@
-echo "# documentation" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/cnvpoilsauxpieds/documentation.git
-git push -u origin master
+![logo](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/girafe.jpeg)
+
+# Toutes nos ressources
+
+## Lien
+- [Groupe Facebook](https://www.facebook.com/groups/1401618046569855/)
+
+

@@ -1,4 +1,4 @@
-![logo](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/girafe.jpeg)
+![mascotte](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/mascotte.jpeg)
 
 # Toutes nos ressources
 

@@ -1,4 +1,4 @@
-![mascotte](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/mascotte.jpeg)
+![mascotte](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/mascotte.jpg)
 
 # Toutes nos ressources
 

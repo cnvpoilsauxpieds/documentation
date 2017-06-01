@@ -44,11 +44,11 @@ c'est déjà bien loin de ce que je vis en réunion) et qui ont nourrit mon beso
 
 **Sophie** : *"Alors yes c'est plus clair et yes yes yes !"*
 
-**Aurélie** : *"D'un point de vue pratique, si chacune d'entre nous est ok / rassurée / a pu s'exprimer sur la suite :
-- le prochain rdv est ouvert à tous ?
-- on bâtit à partir de notre atelier#2 (stratégies déjà en place : gardien du lien / groupe fb / besoin identifié ) ?
-- les valeurs / règles du jeu seront élaborées lors de l'a#3 avec toutes les personnes en présence ?
-- est-ce qu'on continue à fixer les "rdv ouvert à tous" en accord avec nos emploi du temps à nous 4 comme on l'avait proposé la dernière fois ?"* 
+**Aurélie** : *"D'un point de vue pratique, si chacune d'entre nous est ok / rassurée / a pu s'exprimer sur la suite :*
+- *le prochain rdv est ouvert à tous ?*
+- *on bâtit à partir de notre atelier#2 (stratégies déjà en place : gardien du lien / groupe fb / besoin identifié ) ?*
+- *les valeurs / règles du jeu seront élaborées lors de l'a#3 avec toutes les personnes en présence ?*
+- *est-ce qu'on continue à fixer les "rdv ouvert à tous" en accord avec nos emploi du temps à nous 4 comme on l'avait proposé la dernière fois ?"* 
 
 
 

@@ -1,4 +1,3 @@
-
 ---
 title: Compte-rendu de l'interlude entre l'atelier 2 et l'atelier 3
 description: suite à la réussi des 2 permiers ateliers, Julia était super motivée pour faire de cette aventure une expérience collaborative à part entière. 
@@ -17,8 +16,8 @@ Merci de vos réponse et belle nuit !"*
 **Léa** : *"Bonsoir à vous.  
 C'est quoi le sous groupe ?  
 Bisou  
-PS : j'ai adoré vous lire sur le groupe facebook, c'est inspirant et motivant!
-je vous embrasse."*
+PS : j'ai adoré vous lire sur le groupe facebook, c'est inspirant et motivant !
+Je vous embrasse."*
 
 **Sophie** : *"Oui pour moi, à donf ! Et en même temps je ne suis pas sûre d'avoir tout compris et en même temps je suis impatiente de partager avec le reste du groupe et mon besoin d'apprendre est très fort, donc oui oui oui ;)
 Douce nuit les meufs."*
@@ -32,8 +31,7 @@ Sophie : mon idée c'est :
 Est-ce que c'est plus clair pour vous ?  
 Bisous !"*
 
-** Cette proposition a à la fois hyper enthousiasmé tout le monde et en même temps soulevé plein de petites peurs enfouies dans chacune de nous : peu de plus trouver sa place
-de ne pas réussie à comprendre et de ne pas trouve de personnes ressources pour se faire expliquer, peur d'être pénible parceque son rythme et différent, souvenirs de travail collaboratif précédent qui
+Cette proposition a à la fois hyper enthousiasmé tout le monde et en même temps soulevé plein de petites peurs enfouies dans chacune de nous : peur de plus trouver sa place, de ne pas réussir à comprendre et de ne pas trouve de personnes ressources pour se faire expliquer, peur d'être pénible parceque son rythme et différent, souvenirs de travail collaboratif précédent qui
 ont échoué, peur que les outils collaboratifs soient compliqués à transmettre et que le groupe ne s'en empare pas...  
 On a donc pris le temps d'éclaircir les besoins et les stratégies : 
 - Besoin de compréhension : on fait en sorte que le climat soit suffisemment bienveillant pour que chacun soit à l'aise pour s'exprimer et on s'engage à expliquer chaque fois que quelque chose n'est pas clair

@@ -50,5 +50,25 @@ c'est déjà bien loin de ce que je vis en réunion) et qui ont nourrit mon beso
 - *les valeurs / règles du jeu seront élaborées lors de l'a#3 avec toutes les personnes en présence ?*
 - *est-ce qu'on continue à fixer les "rdv ouvert à tous" en accord avec nos emploi du temps à nous 4 comme on l'avait proposé la dernière fois ?"* 
 
+Julia : *"Hello !  
+Merci Aurélie pour le partage :-). As-tu besoin de clarté ou de rassurance sur certains points ?*  
+
+*Oui il y aurait désormais 2 objectifs :*
+- *pratiquer la CNV (objectif initial)*
+- *expérimenter le création d'un groupe 100% collaboratif* 
+
+*QUESTION : est-ce que vous êtes OK qu'on ait le GitHub pour pouvoir stocker et travailler à distance ?* 
+
+*D'ici la prochaine fois, je vous propose :*
+*- Inviter tout le monde par mail*
+*- Leur partager le GitHub pour 100% de transparence*
+
+*Pour l'atelier#3 , je vous propose de co-créer l'ODJ via Framapad : ![https://mensuel.framapad.org/p/ordredujouratelier3]*  
+
+*J'ai l'impression qu'il faut leur partager vite la date pour leur laisser le temps de s'organiser.*
+
+*Qu'en pensez-vous ?*
+
+
 
 

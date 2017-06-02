@@ -13,18 +13,17 @@ J'ai réfléchi et j'aimerai ouvrir, dès à présent, le sous groupe à celles 
 Qu'en pensez-vous ?  
 Merci de vos réponse et belle nuit !"* 
 
-**Léa** : *"Bonsoir à vous.  
-C'est quoi le sous groupe ?  
-Bisou  
-PS : j'ai adoré vous lire sur le groupe facebook, c'est inspirant et motivant !
-Je vous embrasse."*
+Direct les filles m'ont rejoins sur le besoin d'inclusion et d'expérimentation de nouvelles méthodes de travail.
+
+**Aurélie** : *"Pour moi le travail de co-création et collaboratif est tout neuf et c'est la plus belle découverte que j'ai faite depuis un paquet de temps : voilà l'enjeu de la réussite de ce groupe à mes yeux :) [...] 
+je me rend compte qu'à la dernière réunion il y avait une myriade de choses nouvelles et attirantes pour moi qui ont littéralement fait exploser les modèles que je connaissais (pas d'obligation de présence et tout le monde est zen, pour ne citer que ça, 
+c'est déjà bien loin de ce que je vis en réunion) et qui ont nourrit mon besoin de changement (petite danse d'Aurélie qui kiffe)."*  
 
 **Sophie** : *"Oui pour moi, à donf ! Et en même temps je ne suis pas sûre d'avoir tout compris et en même temps je suis impatiente de partager avec le reste du groupe et mon besoin d'apprendre est très fort, donc oui oui oui ;)
 Douce nuit les meufs."*
 
 **Julia** : *"Trop cool !  
-Léa, le sous-groupe en fait c'est nous, c'était pour résumer. On pourrait dire notre pré-groupe de 4 :-)  
-Sophie, mon idée c'est :
+Mon idée c'est :
 *- de retranscrire tout notre travail pour partager la méthode et pourquoi la théoriser à s'en servir pour d'autres projets*    
 *- appliquer et inventer des outils en conscience pour faire de ce groupe une véritable expérience collaborative (C'est à dire, 100% co-création, horizontalité, intelligence collective tout ça  avec une approche "consciente" et pas juste empirique.)*  
 *- faire en sorte que ça réponde suffisamment à tous nos besoins pour que chacun se sente impliqué et responsable (no leader, just auto-régulation et facilitateurs bien à leur place).*  
@@ -38,30 +37,12 @@ On a donc pris le temps d'éclaircir les besoins et les stratégies :
 - Besoin d'équité dans la capacité à utiliser les outils : on organise un temps de formation à ce sujet pour transmettre les bases et on prend le temps qu'il faut pour que chacun s'habitue. En attendant, ceux qui sont le plus à l'aise assurent la coordination.
 - Besoin de sécurité : on s'appuie au maximum sur le CNV et l'expression des besoins de chacun(e)s.
 
-**Aurélie** : *"Pour moi le travail de co-création et collaboratif est tout neuf et c'est la plus belle découverte que j'ai faite depuis un paquet de temps : voilà l'enjeu de la réussite de ce groupe à mes yeux :) [...] 
-je me rend compte qu'à la dernière réunion il y avait une myriade de choses nouvelles et attirantes pour moi qui ont littéralement fait exploser les modèles que je connaissais (pas d'obligation de présence et tout le monde est zen, pour ne citer que ça, 
-c'est déjà bien loin de ce que je vis en réunion) et qui ont nourrit mon besoin de changement (petite danse d'Aurélie qui kiffe)."*  
-
 **Sophie** : *"Alors yes c'est plus clair et yes yes yes !"*
 
-**Julia** : *"Hello !  
-*Du coup il y aurait désormais 2 objectifs :*
-- *pratiquer la CNV (objectif initial)*
-- *expérimenter le création d'un groupe 100% collaboratif à l'aide la CNV* 
+**Léa** : *Oui, oui ! Allez on fonce !"
 
-*QUESTION : est-ce que vous êtes OK qu'on ait le GitHub pour pouvoir stocker et travailler à distance ?* 
+Résultats : on a ouvert l'atelier#3 à tous les gens de la formation, on à tout documenté sur GitHub et on à mis en place des ODJ collaboratif. Va-t-on réussir à impliquer tout le monde. La suite au prochain épisode !
 
-*D'ici la prochaine fois, je vous propose :*
-*- Inviter tout le monde par mail*
-*- Leur partager le GitHub pour 100% de transparence*--
-
-*Ok pour vous ?* 
-
-*Pour l'atelier#3 , je vous propose de co-créer l'ODJ via Framapad : ![https://mensuel.framapad.org/p/ordredujouratelier3]*  
-
-*J'ai l'impression qu'il faut leur partager vite la date pour leur laisser le temps de s'organiser.*
-
-*Qu'en pensez-vous ?*
 
 
 

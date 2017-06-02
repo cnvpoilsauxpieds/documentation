@@ -13,7 +13,7 @@ J'ai réfléchi et j'aimerai ouvrir, dès à présent, le sous groupe à celles 
 Qu'en pensez-vous ?  
 Merci de vos réponse et belle nuit !"* 
 
-Direct les filles m'ont rejoins sur le besoin d'inclusion et d'expérimentation de nouvelles méthodes de travail.
+**Direct les filles m'ont rejoins sur le besoin d'inclusion et d'expérimentation de nouvelles méthodes de travail.**
 
 **Aurélie** : *"Pour moi le travail de co-création et collaboratif est tout neuf et c'est la plus belle découverte que j'ai faite depuis un paquet de temps : voilà l'enjeu de la réussite de ce groupe à mes yeux :) [...] 
 je me rend compte qu'à la dernière réunion il y avait une myriade de choses nouvelles et attirantes pour moi qui ont littéralement fait exploser les modèles que je connaissais (pas d'obligation de présence et tout le monde est zen, pour ne citer que ça, 
@@ -30,20 +30,20 @@ Mon idée c'est :
 *Est-ce que c'est plus clair pour vous ?  
 Bisous !"*
 
-Cette proposition a à la fois hyper enthousiasmé tout le monde et en même temps soulevé plein de petites peurs enfouies dans chacune de nous : peur de ne plus trouver sa place, de ne pas réussir à comprendre et de ne pas trouver de personnes ressources pour se faire expliquer, peur d'être pénible parceque son rythme est différent, souvenirs de projets collaboratifs précédents qui
+**Cette proposition a à la fois hyper enthousiasmé tout le monde et en même temps soulevé plein de petites peurs enfouies dans chacune de nous : peur de ne plus trouver sa place, de ne pas réussir à comprendre et de ne pas trouver de personnes ressources pour se faire expliquer, peur d'être pénible parceque son rythme est différent, souvenirs de projets collaboratifs précédents qui
 ont échoués, peur que les outils collaboratifs soient compliqués à transmettre et que le groupe ne s'en empare pas...  
-On a donc pris le temps d'éclaircir les besoins et les stratégies : 
-- Besoin de compréhension : on fait en sorte que le climat soit suffisament bienveillant pour que chacun soit à l'aise pour s'exprimer et on s'engage à expliquer chaque fois que quelque chose n'est pas clair.
-- Besoin d'équité dans la capacité à utiliser les outils : on organise un temps de formation à ce sujet pour transmettre les bases et on prend le temps qu'il faut pour que chacun s'habitue. En attendant, ceux qui sont le plus à l'aise assurent la coordination.
-- Besoin de sécurité : on s'appuie au maximum sur le CNV et l'expression des besoins de chacun(e)s.
+On a donc pris le temps d'éclaircir les besoins et les stratégies :** 
+**- Besoin de compréhension : on fait en sorte que le climat soit suffisament bienveillant pour que chacun soit à l'aise pour s'exprimer et on s'engage à expliquer chaque fois que quelque chose n'est pas clair.**
+**- Besoin d'équité dans la capacité à utiliser les outils : on organise un temps de formation à ce sujet pour transmettre les bases et on prend le temps qu'il faut pour que chacun s'habitue. En attendant, ceux qui sont le plus à l'aise assurent la coordination.**
+**- Besoin de sécurité : on s'appuie au maximum sur le CNV et l'expression des besoins de chacun(e)s.**
 
 **Sophie** : *"Alors yes c'est plus clair et yes yes yes !"*
 
 **Léa** : *Oui, oui ! Allez on fonce !"
 
-Résultats : on a ouvert l'atelier#3 à tous les gens de la formation, on à tout documenté sur GitHub et on à mis en place des ODJ collaboratif. Va-t-on réussir à impliquer tout le monde. La suite au prochain épisode !
+**Résultats : on a ouvert l'atelier#3 à tous les gens de la formation, on à tout documenté sur GitHub et on à mis en place des ODJ collaboratif. Va-t-on réussir à impliquer tout le monde. La suite au prochain épisode !**
 
-
+Ecrit, relu, modifié, re-modifié mais pas corrigé par Julia.
 
 
 

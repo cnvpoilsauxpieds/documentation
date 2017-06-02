@@ -23,8 +23,8 @@ c'est déjà bien loin de ce que je vis en réunion) et qui ont nourrit mon beso
 Douce nuit les meufs."*
 
 **Julia** : *"Trop cool !  
-Mon idée c'est :
-*- de retranscrire tout notre travail pour partager la méthode et pourquoi la théoriser à s'en servir pour d'autres projets*    
+Mon idée c'est :  
+*- de retranscrire tout notre travail pour partager la méthode et pourquoi la théoriser à s'en servir pour d'autres projets*     
 *- appliquer et inventer des outils en conscience pour faire de ce groupe une véritable expérience collaborative (C'est à dire, 100% co-création, horizontalité, intelligence collective tout ça  avec une approche "consciente" et pas juste empirique.)*  
 *- faire en sorte que ça réponde suffisamment à tous nos besoins pour que chacun se sente impliqué et responsable (no leader, just auto-régulation et facilitateurs bien à leur place).*  
 *Est-ce que c'est plus clair pour vous ?  

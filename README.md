@@ -14,3 +14,4 @@
 ## Ordres du jours collaboratifs
 - [ODJ atelier#3](https://mensuel.framapad.org/p/ordredujouratelier3)
 - [ODJ atelier#4](https://mensuel.framapad.org/p/ordredujouratelier4)
+- [ODJ atelier#5](https://mensuel.framapad.org/p/ordredujouratelier5)

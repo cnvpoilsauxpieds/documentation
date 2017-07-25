@@ -4,16 +4,16 @@ description: utiliser GitHub et se mettre d'accord sur l'ouverture du groupe
 ---
 # Compte rendu de l'atelier#4  
 
-**19h30**
+**19h30**  
 Je gare la voiture le long d’une petite route escarpée, et hop ! me voilà, avec Jérôme, sur les marches d'un escalier menant à une terrasse qui semble perchée au milieu des arbres … le petit cocon de notre atelier ce soir.
 Gé-nial !  
 Sophie et Julia nous accueillent avec un sourire qui traduit l’enthousiasme débordant qu’elles ont à être là. Corto, le chien de Julia, nous salue aussi … avec plein d’énergie.  
 
-**20h00**
+**20h00**  
 Léa est arrivée, le groupe est au complet et l’envie de papoter est bien là, on décide alors de manger un bout avant toute chose.  
 
-**21h00**
-Ayé, on est prêt.e.s à commencer et on décide de le faire par un tour de table avant de regarder l’odj. Chacun se centre pour dire ce qu’il ressent et Corto commence, il ne tient plus, en se frottant à nous.
+**21h00**  
+Ayé, on est prêt.e.s à commencer et on décide de le faire par un tour de table avant de regarder l’[odj](https://mensuel.framapad.org/p/ordredujouratelier4). Chacun se centre pour dire ce qu’il ressent et Corto commence, il ne tient plus, en se frottant à nous.
 Chaque prise de parole donne lieu à des échos des autres membres … Tout d’un coup, je me rend compte que la sincérité avec laquelle tout le monde se livre me touche : c’est une véritable invitation à être entière et authentique. Par quoi commencer ?… une petite mise au point sur les outils : Julia nous présente GitHub, comment naviguer dedans, où trouver les rappels et comment rédiger les c/r de nos ateliers.
 Chacun s’affaire … là sur un pc, ici sur un téléphone, jusqu’à ce que Ô miraaaacle : notre « organisation » GitHub compte cinq admin !  
 

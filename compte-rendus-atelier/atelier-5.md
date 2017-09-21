@@ -11,7 +11,7 @@ Voici deux mois que nous ne nous étions pas retrouvé et les retrouvailles fure
 
 Nous commençons la rencontre au feeling, comme d'habitude. Nous nous racontons nos expériences du moment et il y en avait pas mal...
 On a notamment parlé de Polyamour (cf. [La salope éthique](http://www.tabou-editions.com/index.php?controller=attachment&id_attachment=65)), 
-de sexualité féminine, de naissance sans douleur (cf. [film naitre avec Frederick Leboyer](https://www.youtube.com/watch?v=JLDr00hSiAA)) 
+de sexualité féminine, de naissance sans douleur (cf. [film naître avec Frederick Leboyer](https://www.youtube.com/watch?v=JLDr00hSiAA)) 
 et de cadeau de Noël - ne me demandez pas ce que ça vient faire là.  
 
 ## Deuxième temps : Jeu de rôle

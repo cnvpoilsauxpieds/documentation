@@ -23,11 +23,11 @@ personne du groupe.
 ## Propositions
 
 La rencontre s'est terminée à minuit, car nous avons pas mal discuté lors du partage d'expérience et nous est donc venue à l'idée de proposer de se voir plus souvent, 
-en fonction des disponibilité de chacun, quitte à ce que se soit en groupe restreint.
+en fonction des disponibilités de chacun, quitte à ce que se soit en groupe restreint.
 Est mis en place un [doodle](https://doodle.com/poll/t6i5742y8v6bp84g) pour le prochain mois, à chacun de le remplir et à voir si cela est possible ;)
 
 ### Retour de Jérôme :
 Ce fut fort intéressant de se replonger dans la pratique en groupe après cette pause. Une belle piqure de rappel sur l'écoute empathique.
-J'ai adoré la soirée, merci les filles pour cet échange, j'adore la dynamique qui est en train de se créer avec le groupe. A très vite  
+J'ai adoré la soirée, merci les filles pour cet échange, j'adore la dynamique qui est en train de se créer avec le groupe. A très vite!  
 
 *Ecrit, lu & relu par Jérôme*

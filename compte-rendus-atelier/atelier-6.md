@@ -7,7 +7,7 @@ description: a définir
 
 - Partages d'expériences  
 - walkdev  
-- jeu de pratique à choisir ;)  
+- jeu de pratique de la CNV ;) (à définir)  
 
 
 

@@ -35,7 +35,7 @@ Léa nous lit le mail, plein de douceur, qu’Isabelle a adressé à Julia aprè
 Quelques idées / envies ont émergées :
 - amener un peu plus de fun sur le déroulement des ateliers pour ne pas tomber dans la routine d’un rdv trop structuré
 - trouver une date pour une immersion CNV Poils aux pieds (deux jours, une tente, des bons petits trucs à grignoter et des pratiques de CNV)
-- mettre en place un « walk-in CNV » (une journée balade ponctuée de CNV … citations, apports théoriques, cas pratiques etc.)  
+- mettre en place un « [Walking Dev](http://walkingdev.fr/) CNV » (transmettre la CNV en toute simplicité sur une journée au travers d'une ballade dans Montpellier.)  
 
 **22h10**  
 On ne tient plus alors Julia nous lance quelques morceaux de musiques et c’est-par-ti : tout le monde danse pour fêter cet atelier, le groupe, l’été, les moustiques … on lâche tout, on est content et on pétille !  

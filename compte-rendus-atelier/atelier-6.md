@@ -37,7 +37,7 @@ En s'appuyant sur la façon dont Aurélie a géré et les feed-back du groupe, L
 
 **22h30.**
 L'heure du départ approche. Comme je sais que Sophie aspire à être reposée pour sa journée de travail demain, je propose de décaler mon temps d'écoute à une prochaine fois. D'un commun accord on décide de clôturer. 
-Pour ça, on utilise un nouvel outil : une boîte dans laquelle il y a des mots. On pioche un mot et on lit le message qui l'accompagne. C'est très sympa à faire ! On est d'ailleurs très étonnés de voir à quel point ceux-ci coincident avec nos situations respectives ! 
+Pour ça, on utilise un nouvel outil ; les cartes des Anges : une boîte dans laquelle il y a des mots. On pioche un mot et on lit le message qui l'accompagne. C'est très sympa à faire ! On est d'ailleurs très étonnés de voir à quel point ceux-ci coincident avec nos situations respectives ! 
 
 **22h50.**
 C'est le coeur chaud et un grand smile qu'on rejoint nos voitures. Le temps d'une dernière cigarette, Aurélie, Jérôme et Léa m'accordent un petit temps d'écoute. Ils/Elles sont trop fort.e.s.

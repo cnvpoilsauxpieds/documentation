@@ -13,7 +13,9 @@ La team est au complet. On est tellement contents de se voir ! J'ais le moral un
 
 ![Les girafes](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/groupe.jpg)
 
-Léa est venue avec un support cette fois : il s'agit d'une série des petites cartes qui représentent de nombreuses émotions. L'idée : nous aider à élargir notre sémantique pour être plus précis dans l'expression de nos ressentis. On les dispose sur la table de salon avec l'intention de les utiliser pour commencer le tour de table. C'est beau ! Comme on aspire au mouvement, à l'évolution et au fun, je trouve ça chouette de changer un peu les approches. 
+Léa installe une série de petites cartes qui représentent de nombreuses émotions sur la table du salon. L'idée : nous aider à élargir notre sémantique pour être plus précis dans l'expression de nos ressentis.  C'est beau ! Comme on aspire au mouvement, à l'évolution et au fun, je trouve ça chouette de changer un peu les approches. 
+
+![cartes des émotions](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/cartes-emotions.jpg)
 
 **20H15.**
 Le tour de table commence. Chacun se reconnecte à soi pour partager aux autres son état du moment. Certain.e.s se sentent éparpillé.e.s
@@ -26,6 +28,8 @@ En même temps, je réalise qu'il n'est pas adapté à toutes les situations et 
 Pour répondre à mon besoin de pratiquer/d'éprouver la CNV, je propose de structurer la soirée avec un/des exercices pratiques :  
 "*Qui a un cas pratique sur lequel il aurait besoin du groupe ?*". Léa nous présente un cas qu'elle vit et qu'elle à du mal à résoudre seule. Quand à moi j'évoque mon besoin d'écoute et d'empathie vis-à-vis d'une situation du moment qui me touche et dans laquelle je me sens un peu perdue.
 
+![Jérôme et Ju](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/jerome-et-ju.jpg)
+
 **21h.** 
 C'est parti ! Léa nous expose son cas. On décide de faire un jeu de rôle. Même plusieurs ! 
 
@@ -37,9 +41,17 @@ On fait un feed-back. Le groupe entier partages ses ressentis, impressions et pi
 Exercice 2 : 
 En s'appuyant sur la façon dont Aurélie a géré et les feed-back du groupe, Léa reprend son rôle. Cette fois c'est Jérôme qui joue celui de l'interlocuteur. L'exercice est un peu compliqué à la fois pour Léa et pour nous qui tentons de l'accompagner au mieux. On arrive à cheminer mais certaines questions restent en suspend (ben oui on apprend !). On reste tout de même serein.e.s car des pistes d'exploration s'ouvrent et Léa se sent mieux. 
 
+![Léa](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/lea.jpg)
+
 **22h30.**
 L'heure du départ approche. Comme je sais que Sophie aspire à être reposée pour sa journée de travail demain, je propose de décaler mon temps d'écoute à une prochaine fois. D'un commun accord on décide de clôturer. 
 Pour ça, on utilise un nouvel outil ; les cartes des Anges : une boîte dans laquelle il y a des mots. On pioche un mot et on lit le message qui l'accompagne. C'est très sympa à faire ! On est d'ailleurs très étonnés de voir à quel point ceux-ci coincident avec nos situations respectives ! 
+
+![Harmonie](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/harmonie.jpg)
+![Patience](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/patience.jpg)
+![Puissance](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/puissance.jpg)
+![Clarté](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/clarte.jpg)
+![Acceptation](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/acceptation.jpg)
 
 **22h50.**
 C'est le coeur chaud et un grand smile qu'on rejoint nos voitures. Le temps d'une dernière cigarette, Aurélie, Jérôme et Léa m'accordent un petit temps d'écoute. Ils/Elles sont trop fort.e.s.

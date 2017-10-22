@@ -11,6 +11,8 @@ Je suis acceuillie par un immense sourire : "*Bienvenue ! Je suis trop contente 
 **20h.**
 La team est au complet. On est tellement contents de se voir ! J'ais le moral un peu déconfit. J'ai besoin d'écoute et d'empathie ce soir et comme je sais que je vais pouvoir trouver tout le réconfort dont j'ai besoin durant ces quelques heures j'ai hâte qu'on commence.
 
+[Les girafes](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-6/groupe.jpg)
+
 Léa est venue avec un support cette fois : il s'agit d'une série des petites cartes qui représentent de nombreuses émotions. L'idée : nous aider à élargir notre sémantique pour être plus précis dans l'expression de nos ressentis. On les dispose sur la table de salon avec l'intention de les utiliser pour commencer le tour de table. C'est beau ! Comme on aspire au mouvement, à l'évolution et au fun, je trouve ça chouette de changer un peu les approches. 
 
 **20H15.**

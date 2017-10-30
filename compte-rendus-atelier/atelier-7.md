@@ -6,7 +6,7 @@ description: nouvelle pratiquante
 # Compte rendu de l'atelier #7  
 ## 1 - On mange  
 
-Il y a des chosees sur lesquelles il ne faut pas rigoler. Ce soir l'atelier ce passe chez Jérôme accompagné de Miriam et sitôt Julia arrivée,
+Il y a des chosees sur lesquelles il ne faut pas rigoler. Ce soir l'atelier ce passe chez Jérôme et Miriam, sitôt Julia arrivée,
 nous commençons à manger en racontant nos lifes. Sort rapidement de la conversation que Miriam a véu un moment délica dans son boulot
 la semaine d'avant.  
 Léa arrive à son tour, la table est complète pour ce soir, plein de bonne chose à manger et plein d'histoire à raconter...  
@@ -25,9 +25,10 @@ On découvre dans un premier temps les besoins de l'organisation -où elle trava
 **Retour de Miriam :**
 ...
 
-**Retour de Jérôme :**
+**Retour de Jérôme :**  
 Encore une belle soirée qui se termine tard, un peu fatigué à vrai dire, mais super reconnaissant de ce qui c'est joué.  
 Je suis resté en retrait dans le sens où j'avais déjà fait de l'écoute sur ce sujet, j'ai préféré laissé les filles aider Miriam à cheminer.  
 En tout les cas, c'était super premier pas vers l'ouverture du groupe... 
+  
 
 *Ecrit, lu & relu par Jérôme*

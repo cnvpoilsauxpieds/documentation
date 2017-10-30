@@ -16,8 +16,8 @@ Et c'est partie pour une scéance de natation en haute mer. Miriam n'a pas suivi
 Julia et Léa prennent les choses en main, on fait une marelle improvisée et c'est partit pour plus de 2h de pratique.
 Les filles accompagnent Miriam dans son chemninement par de l'écoute emptathique, elle danse pas mal d'avant en arrière
 
-![La danse de l'auto-empathie](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-7/La_danse_de_l'Auto-Empathie.PNG)
+![La danse de l'auto-empathie](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-7/La_danse_de_l'Auto-Empathie.PNG)  
 
- 
+On découvre dans un premier temps les besoins de la structure, puis arrivons après un long cheminement à l'expression de SON besoin : merner à terme la mission pour laquelle elle a été engagée!
 
 *Ecrit, lu & relu par Jérôme*

@@ -10,8 +10,6 @@
 
 ## Lien
 - [Groupe Facebook](https://www.facebook.com/groups/1401618046569855/)
+- [WalkingDev ou une journée pour explorer la CNV en se balladant dans des lieux sympas](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md)
 
-## Ordres du jours collaboratifs
-- [ODJ atelier#3](https://mensuel.framapad.org/p/ordredujouratelier3)
-- [ODJ atelier#4](https://mensuel.framapad.org/p/ordredujouratelier4)
-- [ODJ atelier#5](https://mensuel.framapad.org/p/ordredujouratelier5)
+

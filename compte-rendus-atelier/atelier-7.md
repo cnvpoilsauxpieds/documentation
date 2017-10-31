@@ -13,7 +13,7 @@ Léa arrive à son tour, la table est complète pour ce soir, plein de bonne cho
 ## 2 - La pratique  
 
 Au vu de ce qui est vivant dans le groupe, est proposé à Miriam de pratiquer la danse de l'auto-empathie concernant ce qu'il c'est passé à son boulot.  
-Et c'est partie pour une séance de natation en haute mer. Miriam n'a pas suivi de formation CNV et est notre cobaye du soir.  
+Une séance de **natation en haute mer**. Miriam n'a pas suivi de formation CNV et est notre cobaye du soir.  
 Julia et Léa prennent les choses en main, on fait une marelle improvisée et c'est partit pour plus de 2h de pratique.  
 Les filles accompagnent Miriam dans son cheminement par de l'écoute empathique, elle danse pas mal d'avant en arrière.  
 
@@ -21,8 +21,10 @@ Les filles accompagnent Miriam dans son cheminement par de l'écoute empathique,
 
 On découvre dans un premier temps les besoins de l'organisation -où elle travaille-, puis arrivons après un long cheminement à l'expression de SON besoin : mener à bien la mission pour laquelle elle a été engagée!
 
-**Retour de Miriam :**
-...
+**Retour de Miriam :**  
+C'était vraiment chouette d'avoir des personnes qui s'intéressent à t'aider à clarifier tes pensées.  
+Je me suis sentie vraiment à l'aise avec Léa et Julia -même si je ne les connais pas beaucoup-, parce que je voyais qu'elles cherchaient à m'aider.  
+Une très bonne expérience.  
 
 **Retour de Jérôme :**  
 Encore une belle soirée qui se termine tard, un peu fatigué à vrai dire, mais super reconnaissant de ce qui s'est joué.  

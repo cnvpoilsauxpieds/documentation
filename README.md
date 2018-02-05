@@ -12,8 +12,8 @@
 3- Se déployer (un peu)   
 
 # Les projets en cours
-- Des journées de co-transimssion de la CNV en se balladant dans des lieux sympas dans différentes villes. [ICI](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md) la journée de novembre 2017 à Montpellier  
-- Un mini-festival sur la Communication Non Violente  
+- Des journées de co-transimssion de la CNV en se balladant dans des lieux sympas dans différentes villes. [ICI](http://walkingdev.fr/#walkingdev/cnv/tree/master/v-34) la journée de novembre 2017 à Montpellier.  
+- Un mini-festival sur la Communication Non Violente.
 
 ## Liens
 - [Groupe Facebook](https://www.facebook.com/groups/1401618046569855/)

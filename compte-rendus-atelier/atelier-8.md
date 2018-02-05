@@ -12,9 +12,11 @@ Ce soir on a RDV chez Sophie. J'ai très envie de voir les Girafes mais il me fa
 
 Je m'interroge et prends le temps de voir ce qui se joue pour moi.  
 
-Ahah ! L'introspection porte vite ses fruits. Me voilà face à deux besoins contradictoires : j'ai envie de continuer à m'investir dans ce groupe car j'y ait trouvé des ami·e·s cher·e·s et que j'y trouve une qualité relationnelle exeptionnelle et en même temps, la constance du fonctionnement ne nourrit pas assez mon besoin d'apprentissage et d'exploration. 
+Ahah ! L'introspection porte vite ses fruits. Me voilà face à deux besoins contradictoires : j'ai envie de continuer à m'investir dans ce groupe car j'y ai trouvé des ami·e·s cher·e·s et une qualité relationnelle exeptionnelle et en même temps, la constance du fonctionnement ne nourrit pas assez mon besoin d'apprentissage et d'exploration. 
 
 C'est décidé, ce soir je leur en parle. 
+
+![https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-8/sophie-aurelie-jerome.jpg]
 
 ## Nos intentions pour 2018
 

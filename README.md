@@ -7,13 +7,13 @@
 **Fun** : j'exprime mon originalité, on fait autrement, on laisse la place à la spontanéité, cultivons l'enthousiasme ! 
 
 # Nos intentions pour 2018
-1- Perpétuer nos RDV mensuels
-2- Préserver le cadre Safe et la qualité de nos échanges
-3- Se déployer (un peu) 
+1- Perpétuer nos RDV mensuels  
+2- Préserver le cadre Safe et la qualité de nos échanges  
+3- Se déployer (un peu)   
 
 # Les projets en cours
-- Des journées de co-transimssion de la CNV en se balladant dans des lieux sympas dans différentes villes. [ICI](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md)la journée de novembre 2017 à Montpellier
-- Un mini-festival sur la Communication Non Violente
+- Des journées de co-transimssion de la CNV en se balladant dans des lieux sympas dans différentes villes. [ICI](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md)la journée de novembre 2017 à Montpellier  
+- Un mini-festival sur la Communication Non Violente  
 
 ## Liens
 - [Groupe Facebook](https://www.facebook.com/groups/1401618046569855/)

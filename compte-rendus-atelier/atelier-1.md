@@ -35,7 +35,7 @@ Notre principal soucis était de savoir comment nourrir à la fois notre **besoi
 2) Ouvrir progressivement aux autres et les impliquer petit à petit pour aller tout "chaud doudou" vers une véritable collaboration 
 
 ## Les résultats 
-On a mis en place un petit groupe de pratique FB pour nourrir dès à présent notre besoin de lien et de pratique, on a monté une "cellule anti-crise" pour s'assurer des temps de soutien et enfin, on a décidé d'une prochaine date de rencontre pour garantir la mise en oeuvre concrète du projet.
+On a mis en place un petit [groupe de pratique FB](https://github.com/cnvpoilsauxpieds/documentation/blob/master/comment--a-marche/le-groupe-facebook.md) pour nourrir dès à présent notre besoin de lien et de pratique, on a monté une "[cellule anti-crise]"(https://github.com/cnvpoilsauxpieds/documentation/blob/master/comment--a-marche/la-cellule-anti-crise.md) pour s'assurer des temps de soutien et enfin, on a décidé d'une prochaine date de rencontre pour garantir la mise en oeuvre concrète du projet.
 
 Wahou ! C'était sûr. Ce projet allait se construire à partir des besoins. Une nouvelle méthodologie allait naître, et vu la qualité d'échange de ce premier temps de travail, j'étais persuadée de sa réussite. 
 

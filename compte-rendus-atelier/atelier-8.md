@@ -16,7 +16,7 @@ Ahah ! L'introspection porte vite ses fruits. Me voilà face à deux besoins con
 
 C'est décidé, ce soir je leur en parle. 
 
-![https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-8/sophie-aurelie-jerome.jpg]
+![Sophie, Aurélie et Jérôme](https://github.com/cnvpoilsauxpieds/documentation/blob/master/media/atelier-8/sophie-aurelie-jerome.jpg)
 
 ## Nos intentions pour 2018
 

@@ -20,7 +20,7 @@ Avec Sophie, nous avons pu répondre à ces questions, doutes, remarques afin d'
  
 Pour rappel, les valeurs du groupe sont [ici](https://github.com/cnvpoilsauxpieds/documentation/blob/master/README.md).
  
-Mes impressions (Jérôme) :
+**Mes impressions (Jérôme) :**  
 Content d'avoir passé cette soirée à trois, car chacun a eu l'espace pour s'exprimer. L'arrivé de Leïla me réjoui car c'est la vie du groupe qui évolue.
  
 Nous repartons le ventre plein de falafel maison, encore merci Leïla pour ton accueil.
